@@ -17,46 +17,57 @@
 "admob_banner":"ca-app-pub-3940256099942544/6300978111",
 "admob_native":"ca-app-pub-3940256099942544/2247696110",
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
-  
-  
+
+
 "yandex_banner":"R-M-2713976-1",
 "yandex_inter":"R-M-2713976-3",
 "yandex_native":"R-M-2713976-2",
 "yandex_reward":"R-M-2713976-4",
-  
+
+
+
+
 "vungle_appid":"645e64defe20a95ccb12bd7b ",
 "vungle_inter":"INTER-5944534",
 "vungle_banner":"DEFAULTBANNER-5844358",
 "vungle_reward":"",
 
-  
- "more_apps_info":[
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"},
-  {"name":"app name test from server","package_name":"com.test.test","icon":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/480px-Instagram-Icon.png"}
-   ],
-
-"download_dialog_txt":"download text from server",
+"start_vpn":"no",
 "banner_network_choice":"yandex", 
 "interstisial_network_choice":"yandex", 
 "reward_network_choice":"yandex",
 "native_network_choice":"yandex"
-  
+
+
+
 
 },
-  "my_data":[
-  {"desc1":"Historical Context: Multiplayer gaming has evolved significantly over the years, from local LAN parties to seamless global online experiences.",
-   "photo1":"https://iili.io/HyhOgLJ.jpg"},
-  {"desc2":"Connect and Compete: Multiplayer games have always provided a platform for players to connect, compete, and collaborate within virtual worlds.",
-"photo2":"https://iili.io/HyhOUXa.jpg"},
-  {"desc3":"User-Generated Content: The rise of user-generated content has revolutionized the possibilities within multiplayer games, allowing players to contribute to the game's ecosystem.",
-"photo3":"https://iili.io/HyhOSzg.jpg"},
-  {"desc4":"Addressing Player Demand: Standoff Maps Editor was developed in response to players' increasing desire for customization and creative involvement.",
-"photo4":"https://iili.io/HyhOvmF.jpg"},
-  {"desc5":"Empowering Creativity: This editor tool empowers players to become creators by offering them the means to design, shape, and share their own multiplayer maps.",
-"photo5":"https://iili.io/HyhO61R.jpg"},
-  {"descd":"Game-Changing Dynamics: The introduction of this tool has not only impacted gameplay dynamics but has also opened up a new realm of creative expression for gamers on a global scale.",
-"photod":"https://iili.io/HyhO4qv.jpg"}
+
+ "my_data":[
+  {"title":"standoff maps Editor Helper 1",
+"desc":"Continual Innovation: Each iteration of the Standoff series has brought forth advancements that reflect both the demands of the gaming community and the developer's dedication to pushing the boundaries of the genre.",
+"photo":"https://iili.io/Hyh8qhX.jpg"},
+  {"title":"standoff maps Editor Helper 2",
+"desc":"A Legacy of Excellence: Standoff has garnered a dedicated fanbase over the years, thanks to its balanced gameplay, tactical depth, and commitment to providing an immersive FPS experience.",
+"photo":"https://iili.io/Hyh8nBs.png"},
+  {"title":"standoff maps Editor Helper 3",
+"desc":"A well-balanced arsenal is crucial in any FPS game, and Standoff 2 is no exception. The update fine-tunes weapon statistics and recoil patterns, ensuring that no single weapon dominates the battlefield. This promotes strategic diversity and encourages players to experiment with different loadouts.",
+"photo":"https://iili.io/Hyh8FpI.jpg"},
+  {"title":"standoff maps Editor Helper  4",
+"desc":"Version 10.0 introduces exciting new game modes that add variety and replayability to Standoff 2. Whether you're in the mood for classic team deathmatches or more objective-based gameplay, there's a mode to suit your preferences.",
+"photo":"https://iili.io/Hyh8fIt.jpg"},
+  {"title":"standoff maps Editor Helper  5",
+"desc":"The update brings refinements to the matchmaking system, ensuring that players are matched with others of similar skill levels. This fosters fair and competitive matches, enhancing the overall gaming experience.",
+"photo":"https://iili.io/Hyh8BQn.jpg"},
+  {"title":"standoff maps Editor Helper  6",
+"desc":"Standoff 2 has been steadily making a name for itself in the esports arena, and Version 10.0 reinforces this commitment. The update includes features that make it easier for players to engage with the esports scene, such as improved spectator modes and tournament integration.",
+"photo":"https://iili.io/Hyh8oEG.jpg"},
+  {"title":"standoff maps Editor Helper 7",
+"desc":"One of the strengths of Standoff 2 has been its responsiveness to player feedback. Version 10.0 continues this tradition, addressing player concerns and suggestions, further solidifying the bond between the development team and the player community.",
+"photo":"https://iili.io/Hyh8oEG.jpg"},
+  {"title":"standoff maps Editor Helper  8",
+"desc":"Standoff 2 Version 10.0 represents a significant milestone in the game's evolution. With its enhanced graphics, new maps, refined gameplay mechanics, and improved matchmaking, it offers both veteran players and newcomers a reason to dive back into the world of tactical mobile gaming.",
+"photo":"https://iili.io/Hyh8x4f.jpg"}
    ]
- 
+
 }
